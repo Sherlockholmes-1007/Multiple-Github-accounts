@@ -19,7 +19,7 @@ cd .ssh/
 cat github_office.pub
 ```
 
-## 4. Copy the SSH public-key to GitHub from ~/.ssh/pdax_krish.pub and 
+## 4. Copy the SSH public-key to GitHub from ~/.ssh/.pub and 
 ## create an SSH key
 
 ![image](https://github.com/user-attachments/assets/20f2d563-ca0f-4396-9848-24fc37de1293)
