@@ -48,10 +48,12 @@ Follow these simple steps:
 ![image](https://github.com/user-attachments/assets/20f2d563-ca0f-4396-9848-24fc37de1293)
 
 3. **Create a config file in ~/.ssh with the following contents:
-to create a config file in mac
 ```
+to create a config file in mac
+cd .ssh/
 nano config
 ```
+
 ```
   Host github.com-personal
     HostName github.com
